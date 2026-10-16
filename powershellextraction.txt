@@ -1,0 +1,3 @@
+1.run command in powershell(copy paste the script)
+2.select folder path you want to extract info from
+3.select usb drive number 0 or 1
